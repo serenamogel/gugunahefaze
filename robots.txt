@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gugunahefaze.pages.dev/sitemap.xml
